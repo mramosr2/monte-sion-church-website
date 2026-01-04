@@ -1,0 +1,38 @@
+{
+  "name": "monte-sion-church-site",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -n client,server \"vite\" \"nodemon server/index.js\"",
+    "build": "vite build",
+    "preview": "vite preview",
+    "dev:client": "vite",
+    "dev:server": "nodemon server/index.js",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "i18next": "^23.16.8",
+    "i18next-browser-languagedetector": "^8.1.0",
+    "lucide-react": "^0.541.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^15.5.0",
+    "react-router-dom": "^6.28.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.1",
+    "helmet": "^7.1.0",
+    "nodemailer": "^6.9.15",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "vite": "^5.4.11",
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.7"
+  }
+}

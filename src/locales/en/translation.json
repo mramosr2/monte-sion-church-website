@@ -1,0 +1,196 @@
+{
+  "brand": "Mision Evangelica Monte Sion",
+  "nav": {
+    "home": "Home",
+    "churches": "Churches",
+    "food": "Food Distribution",
+    "about": "About",
+    "activities": "Activities",
+    "history": "Our History",
+    "contact": "Contact",
+    "donate": "Donate",
+    "more": "More",
+    "menu": "Menu",
+    "close": "Close",
+    "languageLabel": "Language / Idioma",
+    "languageHelp": "Choose a language. This changes all site text. / Elige un idioma. Esto cambia todo el texto del sitio.",
+    "english": "English (EN)",
+    "spanish": "Español (ES)"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "send": "Send",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "required": "Required",
+    "optional": "Optional"
+  },
+  "home": {
+    "heroTitle": "Mision Evangelica Monte Sion",
+    "heroSubtitle": "A faith community in Los Angeles focused on worship, teaching, and service.",
+    "addressLabel": "Address",
+    "phoneLabel": "Phone",
+    "ctaPrimary": "Contact us",
+    "ctaSecondary": "Donate",
+    "sectionWelcomeTitle": "Welcome",
+    "sectionWelcomeBody": "Since 1994, we serve our community with unity, love, and faith lived out in action.",
+    "sectionCards": {
+      "worship": "Worship God",
+      "word": "Hear His Word",
+      "prayer": "Pray for People"
+    },
+    "pastorsTitle": "Our Pastors",
+    "activitiesTitle": "Our Activities",
+    "activitiesBody": "We host events and gatherings to grow together, serve, and strengthen community.",
+    "heroImageTip": "Tip: Replace this block with a photo of the church (hero). Ideal: 1920×1080.",
+    "sectionWelcomeExtra": [
+      "It began on October 23, 1994, with brothers and sisters who united in one spirit and one heart, so that God would grant great blessing—and we have come to where we are today. May God bless everyone who visits and reads this page.",
+      "We know that for those who love God, all things work together for good, and that everyone who does good will receive the good they have done in due time. Mision Monte Sion was founded to do good and to help those most in need."
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We’re here to help. Call us or send a message.",
+    "infoTitle": "Information",
+    "churchLabel": "Church",
+    "emailFaxLabel": "Email",
+    "formTitle": "Write to us",
+    "formNote": "Send us a message and we’ll get back to you as soon as we can.",
+    "form": {
+      "nameLabel": "Full name",
+      "emailLabel": "Email",
+      "subjectLabel": "Subject",
+      "messageLabel": "Message",
+      "emailHintPrefix": "Use the format",
+      "messageHint": "Please include enough detail so we can respond. Minimum 5 characters.",
+      "validationTitle": "Please fix the highlighted fields",
+      "validationBody": "Check the form below and correct the following items:",
+      "submit": "Send message",
+      "submitting": "Sending…",
+      "successTitle": "Message sent",
+      "successBody": "Thanks for reaching out. We’ll reply to you soon.",
+      "errorTitle": "Couldn’t send message",
+      "errorBody": "Please try again in a moment.",
+      "errors": {
+        "required": "This field is required.",
+        "email": "Enter a valid email address (example: name@example.com).",
+        "max": "Must be {{count}} characters or less.",
+        "minMessage": "Please write at least 5 characters.",
+        "rateLimited": "Too many messages from your network. Please wait a bit and try again.",
+        "serverConfig": "The email service isn’t configured yet. Please call us instead."
+      }
+    }
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "Our story, values, and mission.",
+    "missionTitle": "Our mission",
+    "missionBody": "Share the Gospel, serve those in need, and build a community where everyone can worship, learn, and grow.",
+    "valuesTitle": "Values",
+    "values": [
+      "Faith with purpose",
+      "Unity & service",
+      "Biblical teaching",
+      "Hospitality"
+    ],
+    "longTitle": "Mision Evangelica Monte Sion.",
+    "longParagraphs": [
+      "We are a non-profit organization legally registered with state and federal authorities, and we have been established since 1995. We give thanks to God because He has allowed us to remain standing and to overcome every trial along the way. We have endured the scorn of our enemies, all kinds of curses, and all kinds of talk from people close to us, and God continues to support our ministry. We have never gone to bring people from other churches; instead, we seek that the Holy Spirit would bring to our churches those who are to be saved. That gives us peace and full satisfaction to keep preaching a real Gospel from a real Word—one that has mysteries between the lines that must be studied, and studied deeply, to satisfy our spiritual needs.",
+      "Since we opened the church, God has prospered us immensely. Perhaps we have not had major growth in membership at the Central Church, but we have been able to establish works in different places and visit them constantly. Land has been purchased, churches have been built, sound equipment and instruments have been sent, pastors in need have been helped, and we have maintained payments for meeting locations for the preaching of the Gospel to this day. This gives us the assurance that God is in our midst and will continue with us, because we have seen that He has enlarged our tents, blessed us, and not allowed the enemy to destroy us. For where God opens, no one can shut; and where God shuts, no one can open.",
+      "We remain on the front lines against ignorance of God’s Word, preaching the written truths and building awareness that only by preaching a real Gospel can we become true Christians. We cannot preach only what people want to hear; we preach the reality of what it is. We do not lie about the Scriptures. We are neither liberal nor legalistic. We speak the truth, and the truth will not only set us free—it may also trouble us in some way. “Not giving up meeting together, as some are in the habit of doing…”",
+      "Jesus clearly said that the truth would set us free, but we cannot take freedom as license, because Scripture says that the one who sins belongs to the enemy. We want to build awareness in all people who come to the church with joy that we are free to worship, to praise, and to study the Holy Word."
+    ]
+  },
+  "activities": {
+    "title": "Activities",
+    "subtitle": "Events, gatherings, and ways to get involved.",
+    "items": [
+      "Worship services",
+      "Bible study",
+      "Community prayer",
+      "Special events"
+    ],
+    "longParagraphs": [
+      "In our church we always try to stay united, with each and every member participating in the different events we celebrate. Most of these are done to collect offerings for the upkeep of the church, and that helps us greatly with paying rent for the building, water, electricity, gas, and more. For this reason, we take this opportunity to welcome the collaboration of brothers and sisters, as well as those who are not yet brothers in Christ who come to participate in these activities. We trust God that the seed of the Gospel will be planted in their hearts so that one day they will recognize our Lord Jesus Christ as their Savior. “Not giving up meeting together, as some are in the habit of doing…”",
+      "Blessings to everyone!!!"
+    ]
+  },
+  "history": {
+    "title": "Our History",
+    "subtitle": "A simple timeline (we can expand with photos and dates).",
+    "items": [
+      {
+        "year": "1994",
+        "text": "Ministry and congregation begin."
+      },
+      {
+        "year": "1995",
+        "text": "Organization and continued growth."
+      },
+      {
+        "year": "Today",
+        "text": "Ongoing service in Los Angeles and support for partner churches."
+      }
+    ],
+    "longTitle": "Our History",
+    "longParagraphs": [
+      "We know that for those who love God, all things work together for good, and that everyone who does good will receive the good they have done in due time. Mision Monte Sion was born with the purpose of doing good and helping those most in need.",
+      "Over the years, we have shown that we feel the need to help our neighbor—near and far. We want the work of God to keep growing, and we ask God to grant us the privilege to do it for the years we have remaining. We desire that our young people also take interest in preaching and continue the legacy they have received throughout their growth—not only physical but spiritual—through the years they have heard the Word of God and through the example of their parents. We work to improve each day and to bring help and comfort to those most in need. For years we have had the privilege of holding what we call Christmas Events in the different communities where our churches are, bringing a moment of joy and seeing the smiles of children, and a “thank you” from parents—an appreciative smile from a happy mother—when she sees her child filled with joy. “Not giving up meeting together, as some are in the habit of doing…”",
+      "We carry out evangelism campaigns in different places, seeking to pray the prayer of Jabez when he asked God; this action is remembered more as a request in prayer than as a heroic act.",
+      "In his prayer, he asked God: (1) to bless him, (2) to help him in his work—“enlarge my territory,” (3) to be with him in everything he did, and (4) to keep him from evil and harm. Jabez recognized God as the true center of his work. That is what Mision Monte Sion desires: that God would lead us to where we should be, bring the people who will do the work without difficulties, and allow us to go very far in the work that was entrusted to us. Even more, we have a great friendship with the Christian Dental Association of Southern California, with whom we have worked together in several communities, in the department of"
+    ]
+  },
+  "food": {
+    "title": "Food Distribution",
+    "subtitle": "Supporting families with resources and community help.",
+    "body": "We’ll add hours, location, requirements, and how to volunteer.",
+    "programTitle": "Mision Evangelica Monte Sion — Central Los Angeles, California",
+    "programParagraphs": [
+      "Among the activities of the church is our food program, where we help people without discrimination—regardless of their status, beliefs, or race. We do this with the purpose of helping, and we share the Gospel, knowing that each person carries their own feelings or religion, yet the message is shared every Friday.",
+      "Each day, more needs are being met through this program, which has been made possible thanks to the generosity of companies that donate products. These items are distributed weekly at our location at {{foodLocation}}. The program is led by Sister {{contactName}}, and she can be reached at {{contactPhone}} to receive any donation you would like to make—food, clothing, shoes, school supplies, household products, furniture, computers, and more.",
+      "Thank you to all the volunteers who give their time to this work, which is being expanded by bringing food to different places—on this occasion, as far as the city of Palmdale.",
+      "If you would like to volunteer and help us prepare these foods for distribution, please don’t hesitate to contact us. Many people need your help, and so do we. “Not giving up meeting together, as some are in the habit of doing…”",
+      "It is difficult, but the gratitude of people without work and without the means to buy food fills us with peace, and we keep doing it. For this and many other reasons, we also want every Monte Sion church to have a program to help people. We know it can be difficult, especially in Central America, but we believe God can bless us, and we will do it very soon."
+    ],
+    "verseText": "Jabez cried out to the God of Israel, saying: Oh, that you would bless me and enlarge my territory! Let your hand be with me and keep me from harm so that I will be free from pain. And God granted his request.",
+    "verseRef": "1 Chronicles 4:10",
+    "sidebar": {
+      "locationTitle": "Distribution location",
+      "contactTitle": "Contact",
+      "donationsTitle": "Accepted donations",
+      "donationsBody": "Food, clothing, shoes, school supplies, household products, furniture, computers, and more."
+    }
+  },
+  "churches": {
+    "title": "Churches",
+    "subtitle": "Some partner churches and mission locations. (We can fill this out with the official list.)",
+    "featured": "Featured",
+    "cards": [
+      {
+        "name": "Los Angeles (Central)",
+        "place": "Los Angeles, CA",
+        "note": "Main location"
+      },
+      {
+        "name": "Iowa",
+        "place": "Iowa",
+        "note": "Partner community"
+      },
+      {
+        "name": "Aldea Xetzac, Tecpán",
+        "place": "Guatemala",
+        "note": "Mission"
+      }
+    ]
+  },
+  "donate": {
+    "title": "Donate",
+    "subtitle": "Thank you for supporting the mission.",
+    "body": "We’ll connect this to your giving platform (Zelle, PayPal, etc.)."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

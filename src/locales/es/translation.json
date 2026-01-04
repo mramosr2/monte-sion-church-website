@@ -1,0 +1,196 @@
+{
+  "brand": "Mision Evangelica Monte Sion",
+  "nav": {
+    "home": "Inicio",
+    "churches": "Iglesias",
+    "food": "Reparto de Alimentos",
+    "about": "Acerca de nosotros",
+    "activities": "Actividades",
+    "history": "Nuestra Historia",
+    "contact": "Contáctenos",
+    "donate": "Donar",
+    "more": "Más",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "languageLabel": "Idioma / Language",
+    "languageHelp": "Elige un idioma. Esto cambia todo el texto del sitio. / Choose a language. This changes all site text.",
+    "english": "English (EN)",
+    "spanish": "Español (ES)"
+  },
+  "common": {
+    "learnMore": "Aprende más",
+    "viewAll": "Ver todo",
+    "send": "Enviar",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "required": "Requerido",
+    "optional": "Opcional"
+  },
+  "home": {
+    "heroTitle": "Mision Evangelica Monte Sion",
+    "heroSubtitle": "Una comunidad de fe en Los Ángeles dedicada a la adoración, la enseñanza y el servicio.",
+    "addressLabel": "Dirección",
+    "phoneLabel": "Teléfono",
+    "ctaPrimary": "Contáctenos",
+    "ctaSecondary": "Donar",
+    "sectionWelcomeTitle": "Bienvenidos",
+    "sectionWelcomeBody": "Desde 1994, buscamos servir a nuestra comunidad con amor, unidad y una fe vivida en acción.",
+    "sectionCards": {
+      "worship": "Alabar a Dios",
+      "word": "Escuchar Su Palabra",
+      "prayer": "Orar por la gente"
+    },
+    "pastorsTitle": "Nuestros Pastores",
+    "activitiesTitle": "Nuestras Actividades",
+    "activitiesBody": "Celebramos eventos y reuniones para crecer juntos, servir y fortalecer la comunidad.",
+    "heroImageTip": "Tip: Reemplace este bloque por una foto del templo (hero). Ideal: 1920×1080.",
+    "sectionWelcomeExtra": [
+      "Nació el 23 de octubre de 1994, con hermanos que nos unimos en un solo espíritu, y en un solo corazón, para que Dios nos diera grande bendición, y llegamos hasta donde hoy estamos. Dios bendiga a cada uno que ve y lee esta página.",
+      "Sabemos que a los que Dios aman todas las cosas le ayudan a bien, y que todos los que hacen bien, recibirán el bien que hagan, en su determinado momento. Y Misión Monte Sion, nació con el fin de hacer el bien y ayudar a los más necesitados."
+    ]
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Estamos para servirle. Llámenos o envíenos un mensaje.",
+    "infoTitle": "Información",
+    "churchLabel": "Iglesia",
+    "emailFaxLabel": "Email",
+    "formTitle": "Escríbanos",
+    "formNote": "Envíanos un mensaje y te responderemos lo antes posible.",
+    "form": {
+      "nameLabel": "Nombre completo",
+      "emailLabel": "Correo electrónico",
+      "subjectLabel": "Asunto",
+      "messageLabel": "Mensaje",
+      "emailHintPrefix": "Usa el formato",
+      "messageHint": "Incluye suficiente detalle para que podamos responder. Mínimo 5 caracteres.",
+      "validationTitle": "Por favor corrige los campos marcados",
+      "validationBody": "Revisa el formulario y corrige lo siguiente:",
+      "submit": "Enviar mensaje",
+      "submitting": "Enviando…",
+      "successTitle": "Mensaje enviado",
+      "successBody": "Gracias por escribirnos. Te responderemos pronto.",
+      "errorTitle": "No se pudo enviar el mensaje",
+      "errorBody": "Inténtalo de nuevo en un momento.",
+      "errors": {
+        "required": "Este campo es obligatorio.",
+        "email": "Ingresa un correo electrónico válido (ejemplo: name@example.com).",
+        "max": "Debe tener {{count}} caracteres o menos.",
+        "minMessage": "Por favor escribe al menos 5 caracteres.",
+        "rateLimited": "Demasiados mensajes desde tu red. Espera un momento e inténtalo de nuevo.",
+        "serverConfig": "El servicio de correo aún no está configurado. Por favor llámanos."
+      }
+    }
+  },
+  "about": {
+    "title": "Acerca de nosotros",
+    "subtitle": "Nuestra historia, valores y misión.",
+    "missionTitle": "Nuestra misión",
+    "missionBody": "Predicar un evangelio real, servir a los necesitados y formar una comunidad donde cada persona pueda adorar, aprender y crecer.",
+    "valuesTitle": "Valores",
+    "values": [
+      "Fe con propósito",
+      "Unidad y servicio",
+      "Enseñanza bíblica",
+      "Hospitalidad"
+    ],
+    "longTitle": "Misión Evangélica Monte Sión.",
+    "longParagraphs": [
+      "Somos una organización no lucrativa inscrita legalmente ante las autoridades  estatales y federales, y estamos así desde el año 1995, y a Dios damos Gracias porque nos ha permitido estar en pie, y vencer cuanta prueba se nos ha puesto en el camino, hemos sufrido el escarnio de nuestros enemigos, hemos soportado toda clase de maldiciones y toda clase de habladurías de personas cercanas a nosotros y Dios sigue respaldando nuestro ministerio, porque nunca hemos ido a traer personas de otras Iglesias, sino que tratamos de que El Espíritu Santo traiga a nuestras Iglesias los que han de ser salvos.  Eso nos da paz y entera satisfacción, para seguir predicando un evangelio real, de una Palabra real, que tiene misterios entre líneas que hay que estudiar, y estudiar bastante para poder satisfacer nuestras necesidades espirituales.",
+      "Desde que abrimos la Iglesia Dios nos ha prosperado inmensamente, quizás no hemos tenido un crecimiento en membrecía  en la Iglesia Central, pero hemos sido capaces de levantar obras en diferentes lugares y las hemos visitado constantemente, se han comprado terrenos, se han construido Iglesias, se han enviado equipos de sonido, instrumentos, se ha ayudado a pastores en necesidades y hemos mantenido los pagos de los locales para la Predicación del Evangelio hasta le fecha, eso nos da la pauta para saber que Dios esta en medio de nosotros y que seguirá con nosotros, porque hemos visto que El a ensanchado nuestras estacas, nos ha bendecido y Dios no le ha permitido al enemigo destruirnos.  Porque donde Dios abre nadie cierra, y donde Dios cierra nadie abre.",
+      "Seguimos en pie de guerra, contra la ignorancia de la Palabra de Dios, predicando las verdades escritas, haciendo conciencia en las personas que solamente predicando un evangelio real, podemos llegar a ser verdaderos cristianos, no podemos predicar lo que las personas desean escuchar, sino predicamos la realidad de lo que es.  No mentimos en las escrituras, no somos liberales, tampoco somos legalistas, decimos la verdad, y la verdad no solo nos hará libres sino que nos molestará de alguna manera. “No dejando de congregarnos como algunos tienen por costumbre…”",
+      "Jesús claro dijo que la verdad nos haría libres, pero no podemos tomar la libertad como libertinaje, porque la Escritura dice: que el que peca es del enemigo.  Queremos hacer conciencia a todas las personas que llegan con alegría a la Iglesia que somos libres para adorar, para alabar y para estudiar la Sagrada Palabra."
+    ]
+  },
+  "activities": {
+    "title": "Actividades",
+    "subtitle": "Eventos, reuniones y oportunidades para participar.",
+    "items": [
+      "Servicios de adoración",
+      "Estudios bíblicos",
+      "Oración comunitaria",
+      "Eventos especiales"
+    ],
+    "longParagraphs": [
+      "En nuestra iglesia tratamos siempre de estar unidos, participando todos y cada uno de los miembros en los diferentes eventos que celebramos, la mayoría de los cuales se hacen para recoger ofrendas para el mantenimiento del templo y eso nos ayuda en gran manera para el pago de la renta del local, el agua, la luz, el gas, etc., es por eso que aprovechamos por este medio toda la “No dejando de congregarnos como algunos tienen por costumbre…”colaboración de los hermanos así como también de los no hermanos en Cristo que se acercan con el fin de participar en estas actividades y que confiamos en Dios que la semilla del evangelio sea puesta en los corazones de ellos para que algún día reconozcan a nuestro Señor Jesucristo como su Salvador.\n\nA todos les deseamos Bendiciones!!!",
+      "A todos les deseamos Bendiciones!!!"
+    ]
+  },
+  "history": {
+    "title": "Nuestra Historia",
+    "subtitle": "Una línea de tiempo simple (se puede ampliar con fotos y fechas).",
+    "items": [
+      {
+        "year": "1994",
+        "text": "Inicio del ministerio y la congregación."
+      },
+      {
+        "year": "1995",
+        "text": "Organización y crecimiento de la obra."
+      },
+      {
+        "year": "Hoy",
+        "text": "Servicio continuo en Los Ángeles y apoyo a iglesias aliadas."
+      }
+    ],
+    "longTitle": "Nuestra Historia",
+    "longParagraphs": [
+      "Sabemos que a los que Dios aman todas las cosas le ayudan a bien, y que todos los que hacen bien, recibirán el bien que hagan, en su determinado momento. Y Misión Monte Sion, nació con el fin de hacer el bien y ayudar a los más necesitados.",
+      "Hemos demostrado a través de los años que estamos con la necesidad de ayudar a nuestro prójimo mas cercano y lejano, queremos que la Obra de Dios siga creciendo y que Dios nos de el privilegio de hacerlo, con los años que nos quedan para hacerlo, deseamos que nuestros jóvenes también se interesen en la predicación, y seguir el legado que han recibido durante su crecimiento no solo físico sino espiritual; por los años que han escuchado la Palabra de Dios, y por el ejemplo de sus padres. Trabajamos para mejorar cada día y para llevar ayuda y consuelo a los mas necesitados, durante años hemos tenido el privilegio de hacer lo que llamamos Eventos Navideños en las diferentes comunidades donde están nuestras Iglesias, llevando un momento de alegría y viendo las sonrisas de los niños, y un gracias de los padres, una sonrisa de agradecimiento de una madre feliz de “No dejando de congregarnos como algunos tienen por costumbre…”ver a su hijo impregnado de alegría.",
+      "Se hacen campañas de evangelización en diferentes lugares, ya que tratamos de hacer la oración de Jabes cuando pidió a Dios; esta acción es recordada por un pedido de oración, más que por un acto heróico.",
+      "En su oración, pidió a Dios: 1. Que lo bendijera,2. Que lo ayudara en su trabajo \"ensancharas mi territorio\",3. Que estuviera con El en todo lo que hiciera y4. Que lo guardara del mal y del daño. Jabes reconoció a Dios como el verdadero centro de su trabajo. Misión Monte Sion es lo que desea, que sea Dios el que nos lleve a donde debemos estar y traiga a las personas que harán el trabajo sin dificultades y que lleguemos muy lejos en la Obra que se nos encomendó. Aun mas, tenemos una gran amistad con la Asociación Cristiana de Dentistas del Sur de California, con quienes en conjunto hemos trabajado en varias comunidades, en el departamento de"
+    ]
+  },
+  "food": {
+    "title": "Reparto de Alimentos",
+    "subtitle": "Apoyo a familias con recursos y ayuda comunitaria.",
+    "body": "Aquí pondremos horarios, ubicación, requisitos y cómo ser voluntario.",
+    "programTitle": "Misión Evangélica Monte Sión Central Los Angeles, California",
+    "programParagraphs": [
+      "Dentro de las actividades que la Iglesia tiene, está el programa de alimentos, donde se ayuda a las personas indiscriminadamente, no importando su estatus, su doctrina o su raza, lo hacemos con el propósito de ayudar, se les predica el evangelio, sabiendo ya de antemano que cada uno guarda su sentimiento o su religión, pero el mensaje se da cada día viernes.",
+      "Cada día son mas las necesidades que se cubren con este programa que ha sido posible gracias a la generosidad de las compañías que donan los productos, los cuales son repartidos semanalmente en nuestro local situado en el {{foodLocation}}. El programa corre bajo la dirección de la hermana {{contactName}} y puede ser contactada al número {{contactPhone}} para recibir cualquier donación que usted desee hacer ya sea en alimentos, ropa, zapatos, útiles escolares, productos para el hogar, muebles, computadoras, etc.",
+      "Gracias a todos los voluntarios que prestan su tiempo para esta obra, la cual esta siendo extendida llevando alimentos a diferentes lugares como en esta oportunidad hasta la ciudad de Palmdale.",
+      "Si usted desea colaborar como voluntario para ayudarnos en la preparación de estos alimentos para su entrega, no dude en ponerse en contacto con nosotros, son muchas las personas que necesitan de su ayuda y nosotros tambien. “No dejando de congregarnos como algunos tienen por costumbre…”",
+      "Es difícil, pero el agradecimiento de las personas sin trabajo y sin probabilidades de comprar alimentos, nos llena de paz y seguimos haciéndolo. Por esto y muchas cosas mas también queremos que cada Iglesia Monte Sion tenga un programa para ayudar a las personas, se que difícil se hace especialmente en Centro America, pero creemos que Dios nos puede bendecir y lo haremos muy pronto."
+    ],
+    "verseText": "Jabes invocó al Dios de Israel, diciendo: ¡Oh, si en verdad me bendijeras, ensancharas mi territorio, y tu mano estuviera conmigo y me guardaras del mal para que no me causara dolor! Y Dios le concedió lo que pidió.",
+    "verseRef": "1 Crónicas 4:10",
+    "sidebar": {
+      "locationTitle": "Ubicación de reparto",
+      "contactTitle": "Contacto",
+      "donationsTitle": "Donaciones aceptadas",
+      "donationsBody": "Alimentos, ropa, zapatos, útiles escolares, productos para el hogar, muebles, computadoras, etc."
+    }
+  },
+  "churches": {
+    "title": "Iglesias",
+    "subtitle": "Algunas de las iglesias y obras asociadas. (Podemos completar esta lista con la info oficial.)",
+    "featured": "Destacado",
+    "cards": [
+      {
+        "name": "Los Ángeles (Central)",
+        "place": "Los Angeles, CA",
+        "note": "Sede principal"
+      },
+      {
+        "name": "Iowa",
+        "place": "Estado de Iowa",
+        "note": "Comunidad aliada"
+      },
+      {
+        "name": "Aldea Xetzac, Tecpán",
+        "place": "Guatemala",
+        "note": "Misión"
+      }
+    ]
+  },
+  "donate": {
+    "title": "Donar",
+    "subtitle": "Gracias por apoyar la misión.",
+    "body": "Conectaremos este botón a la plataforma de donaciones que usen (Zelle, PayPal, etc.)."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  }
+}
