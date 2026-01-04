@@ -58,6 +58,12 @@
     "emailFaxLabel": "Email",
     "formTitle": "Escríbanos",
     "formNote": "Envíanos un mensaje y te responderemos lo antes posible.",
+    "formDisabled": {
+      "badge": "Modo mantenimiento",
+      "title": "El formulario está en construcción",
+      "body": "Estamos terminando la configuración del correo. Por ahora, envíanos un email a {{email}} o llámanos al {{phone}}.",
+      "cta": "Envíanos un email"
+    },
     "form": {
       "nameLabel": "Nombre completo",
       "emailLabel": "Correo electrónico",

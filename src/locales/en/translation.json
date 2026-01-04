@@ -58,6 +58,12 @@
     "emailFaxLabel": "Email",
     "formTitle": "Write to us",
     "formNote": "Send us a message and we’ll get back to you as soon as we can.",
+    "formDisabled": {
+      "badge": "Maintenance mode",
+      "title": "Contact form is under construction",
+      "body": "We’re finishing email setup. For now, please email us at {{email}} or call {{phone}}.",
+      "cta": "Email us"
+    },
     "form": {
       "nameLabel": "Full name",
       "emailLabel": "Email",
